@@ -1,8 +1,13 @@
 body {
     background-color: lightgrey;
     background-image: url("../images/background-img.jpg");
+    color: blue;
 }
 
 p {
     font-weight: bold;
+}
+
+.text-center {
+    text-align: center;
 }
